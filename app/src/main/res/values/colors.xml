@@ -13,6 +13,6 @@
     <color name="Default_background">#ffffff</color>
     <color name="Default_font_color_dark">#000000</color>
     <color name="Default_font_color_light">#ffffff</color>
-    <color name="message_from_background">#5c84eb</color>
-    <color name="message_to_background">#BDB9BC</color>
+    <color name="message_from_background">#BDB9BC</color>
+    <color name="message_to_background">#5c84eb</color>
 </resources>
